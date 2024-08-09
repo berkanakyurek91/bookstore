@@ -2,6 +2,12 @@
 
 Demo URL: https://bookstoreyolcu360.surge.sh/
 
+Uygulama 2 sayfadan oluşuyor. Anasayfa kitapların listelendiği sayfa ve sepet sayfası.
+
+Anasayfada kullanıcı kitapları görüntüleyebilir, arama çubuğundan kitap başlığı veya yazar ismine göre arama yapabilir. Kitapları sepete ekleyebilir.
+
+Sepet sayfasında kullanıcı sepete eklenmiş olan kitapları görüntüleyebilmektedir. Sepete eklenen kitaplar sayfa yenilendiğinde kaybolmaması için aynı zamanda Local Storage üzerinde de tutulmaktadır. 
+
 ## Setup
 
 Make sure to install the dependencies:
